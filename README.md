@@ -1,2 +1,2 @@
 # bsod
-BSOD Using Batch
+BSOD Using Batch (Harmless)
